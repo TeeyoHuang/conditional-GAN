@@ -10,10 +10,6 @@ CUDA 8.0+
 pytorch 0.3.1  
 torchvision  
 
-# Reference  
-*[1]* [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)  
-*[2]*[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)  
-
 # Results  
 the conditional_gan:  
 
@@ -23,6 +19,14 @@ the conditional_gan:
     
 conditional_DCGAN:  
 ![image](https://github.com/TeeyoHuang/conditional-GAN/blob/master/20-19600.png)  
-
+  
+  
+    
+     
+# Reference  
+*[1]* [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)  
+*[2]*[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) 
+  
+  
 # Blog  
 [teeyohuang](https://blog.csdn.net/Teeyohuang/article/details/82391251)
